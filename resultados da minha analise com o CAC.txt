@@ -1,0 +1,10 @@
+resultados da minha analise com o CAC
+
+dia 4 bate com as datas registro (106=106)
+
+dia 3 bateu com as ativações (próximo, o total da base ficou igual aos da viavante = 65, e SEG + ST = 8, o que me faz pensar que tem coisas sendo preenchidas na viavante registro, mas são SEG e ST)
+
+SEG e ST tendem a bater com ativações (dia 2 bateu perfeitamente e em outros dias)
+
+conclusão: são valores aproximados, há divergências nos padrões de cadastramento, muito díficil bater perfeitamente 100% todos os dias pela falta de padronização de cadastramento, mas é possível fazer aproximações sólidas
+
